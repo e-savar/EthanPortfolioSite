@@ -5,7 +5,6 @@ import { Github, GraduationCap, Linkedin, Mail } from "lucide-react";
 export default function Home() {
   const firstName = "Ethan";
   const lastName = "Savar";
-
   const experiences = [
     {
       role: "Incoming Intern",
