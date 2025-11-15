@@ -11,7 +11,7 @@ export default function Home() {
       company: "Capital One",
       location: "McLean, VA",
       logo: "/C1Logo.png",
-      desc: "Incoming Software Engineer Intern as part of the Technology Internship Program (TIP)",
+      desc: "Incoming Intern",
       dates: "Summer 2026",
     },
     {
@@ -36,7 +36,7 @@ export default function Home() {
       location: "Columbus, OH",
       logo: "/OSULogo.png",
       desc: "TA'd for CSE 2331: Data Structures and Algorithms. Researched stochastic differential equations effects on Diffusion Models and Uncertainty Calibration for LLMs",
-      dates: "May 2024 - May 2025",
+      dates: "August 2023 - May 2025",
     },
   ];
 
