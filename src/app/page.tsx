@@ -19,14 +19,14 @@ export default function Home() {
   ];
 
   const experiences = [
-    {
-      role: "Incoming Intern",
-      company: "Capital One",
-      location: "McLean, VA",
-      logo: "/C1Logo.png",
-      desc: "Incoming Intern",
-      dates: "Summer 2026",
-    },
+    // {
+    //   role: "Incoming Intern",
+    //   company: "Capital One",
+    //   location: "McLean, VA",
+    //   logo: "/C1Logo.png",
+    //   desc: "Incoming Intern",
+    //   dates: "Summer 2026",
+    // },
     {
       role: "Software Engineer Intern",
       company: "JPMorganChase",
