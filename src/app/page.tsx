@@ -279,7 +279,7 @@ export default function Home() {
           {[
             { title: "Data For Good Hackathon Winner 2025", desc: "Built an analytics dashboard serving educational nonprofit in Python and Tableau" },
             { title: "AutoTex", desc: "Application that converts text and handwritten notes into LaTeX documents using OCR and LLM models in React and Python" },
-            { title: "GroupViz", desc: "Interactive visualizer to simulate Dihedral Group actions up to D(12) and generate Cayley Graphs using Python" },
+            { title: "Ripple Puzzle", desc: "Try it out at ripplepuzzle.com !" },
           ].map((project, i) => (
             <motion.div
               key={i}
