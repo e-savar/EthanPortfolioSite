@@ -19,14 +19,22 @@ export default function Home() {
   ];
 
   const experiences = [
-    // {
-    //   role: "Incoming Intern",
-    //   company: "Capital One",
-    //   location: "McLean, VA",
-    //   logo: "/C1Logo.png",
-    //   desc: "Incoming Intern",
-    //   dates: "Summer 2026",
-    // },
+    {
+      role: "Software Development Engineer Intern",
+      company: "Amazon Web Services",
+      location: "Seattle, WA",
+      logo: "/AWSLogo.png",
+      desc: "Full stack on training and certifications team",
+      dates: "September 2026 - November 2026",
+    },
+    {
+      role: "Software Engineer Intern",
+      company: "Capital One",
+      location: "McLean, VA",
+      logo: "/C1Logo.png",
+      desc: "Card Tech infrastructure and backend for free trial and subscription notifications",
+      dates: "June 2026 - August 2026",
+    },
     {
       role: "Software Engineer Intern",
       company: "JPMorganChase",
@@ -55,12 +63,21 @@ export default function Home() {
 
   const education = [
     {
+      degree: "M.S. Computer Science",
+      school: "New York University",
+      location: "New York, NY",
+      logo: "/NYULogo.png",
+      gpa: "GPA: 4.0 / 4.0",
+      dates: "2026 - 2028",
+      honors: "Courant Institute of Mathematical Sciences",
+    },
+    {
       degree: "B.S. Computer Science Engineering & Mathematics",
       school: "The Ohio State University",
       location: "Columbus, OH",
       logo: "/OSULogo.png",
       gpa: "GPA: 3.53 / 4.0",
-      dates: "2022 – 2026 (Expected)",
+      dates: "2022 – 2026",
       honors: "Dean's List • Honors Integrated Business and Engineering • College of Engineering",
     },
   ];
